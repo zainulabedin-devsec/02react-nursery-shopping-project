@@ -49,11 +49,6 @@ npm install
 
 # Start development server
 npm run dev
-📸 Screenshots
-<img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/990ec2b7-4fa3-41f5-8b18-fe53fcfbd733" />
-<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/4d057014-8ba3-4253-a7cd-c0a9a47a575e" />
-<img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/44297f56-67b5-46a5-957f-7759977f2131" />
-<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/0ea35ef5-d893-4c0c-b898-f42bf67fba14" />
 
 ⚡ Future Enhancements
 Add user authentication
@@ -61,6 +56,12 @@ Add user authentication
 Integrate backend API for live products and orders
 
 Add filtering and search functionality
+
+📸 Screenshots
+<img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/990ec2b7-4fa3-41f5-8b18-fe53fcfbd733" />
+<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/4d057014-8ba3-4253-a7cd-c0a9a47a575e" />
+<img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/44297f56-67b5-46a5-957f-7759977f2131" />
+<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/0ea35ef5-d893-4c0c-b898-f42bf67fba14" />
 
 📄 License
 This project is licensed under the MIT License.
